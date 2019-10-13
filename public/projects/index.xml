@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Declan Gray-Mullen</title>
+    <link>//declangraymullen.com/projects/</link>
+    <description>Recent content in Projects on Declan Gray-Mullen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Oct 2019 12:11:19 -0100</lastBuildDate>
+    
+	<atom:link href="//declangraymullen.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Upcoming Projects</title>
+      <link>//declangraymullen.com/projects/projects_list/</link>
+      <pubDate>Sun, 13 Oct 2019 12:11:19 -0100</pubDate>
+      
+      <guid>//declangraymullen.com/projects/projects_list/</guid>
+      <description>Projects that I am currently exploring:
+ Data Cleaning and Analytics of Weight Lifting MEF Monte Carlo MEF Pitch Fire Search House Positioning System  </description>
+    </item>
+    
+  </channel>
+</rss>

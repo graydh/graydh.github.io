@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>//declangraymullen.com/blog/</loc>
+    <lastmod>2019-10-13T12:08:19-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//declangraymullen.com/</loc>
+    <lastmod>2019-10-13T12:08:19-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//declangraymullen.com/blog/firstpost/</loc>
+    <lastmod>2019-10-13T12:08:19-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//declangraymullen.com/projects/</loc>
+    <lastmod>2019-10-13T12:11:19-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//declangraymullen.com/projects/projects_list/</loc>
+    <lastmod>2019-10-13T12:11:19-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//declangraymullen.com/about/</loc>
+    <lastmod>2019-09-28T22:42:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//declangraymullen.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>//declangraymullen.com/tags/</loc>
+  </url>
+  
+</urlset>

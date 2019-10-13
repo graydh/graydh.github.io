@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Declan Gray-Mullen</title>
+    <link>//declangraymullen.com/</link>
+    <description>Recent content on Declan Gray-Mullen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Oct 2019 12:08:19 -0200</lastBuildDate>
+    
+	<atom:link href="//declangraymullen.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning, College, and Transparency</title>
+      <link>//declangraymullen.com/blog/firstpost/</link>
+      <pubDate>Sun, 13 Oct 2019 12:08:19 -0200</pubDate>
+      
+      <guid>//declangraymullen.com/blog/firstpost/</guid>
+      <description>As I have been building this website, I&amp;rsquo;ve been considering what sort of structure I should follow for documenting both my overall progress on independent projects as well as my personal development. I have decided to split posts into two general categories with associated goals:
+ Blog  Will consist of quasi-&amp;lsquo;random&amp;rsquo; updates regarding my independent work, academic life, goals and career progress. Maintain an average posting frequency of once per month Updates regarding significant life events Outline my thoughts and focus  Portfolio  Will consist of less frequent larger posts explaining a certain project and diving into my technical implementation and progress Document a project at least once a season Publication style structure Projects involving data science, MEF and technology   </description>
+    </item>
+    
+    <item>
+      <title>Upcoming Projects</title>
+      <link>//declangraymullen.com/projects/projects_list/</link>
+      <pubDate>Sun, 13 Oct 2019 12:11:19 -0100</pubDate>
+      
+      <guid>//declangraymullen.com/projects/projects_list/</guid>
+      <description>Projects that I am currently exploring:
+ Data Cleaning and Analytics of Weight Lifting MEF Monte Carlo MEF Pitch Fire Search House Positioning System  </description>
+    </item>
+    
+    <item>
+      <title>A Programmer, an Analyst, a Firefighter</title>
+      <link>//declangraymullen.com/about/</link>
+      <pubDate>Sat, 28 Sep 2019 22:42:56 -0400</pubDate>
+      
+      <guid>//declangraymullen.com/about/</guid>
+      <description>Declan Gray-Mullen is from Amherst, Massachusetts majoring in Computer Science as UMass Amherst. He is currently a Junior Analyst in the Isenberg Minutemen Equity Fund covering the Financials sector. Declan interned this past summer at Liberty Mutual as a software developer on the Hosting Services Automation Team. Outside of MEF, Declan is a firefighter in the Amherst Fire Department Student Force and an Undergraduate Course Assistant in the Computer Science Department.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Declan Gray-Mullen</title>
+    <link>//declangraymullen.com/blog/</link>
+    <description>Recent content in Blogs on Declan Gray-Mullen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Oct 2019 12:08:19 -0200</lastBuildDate>
+    
+	<atom:link href="//declangraymullen.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning, College, and Transparency</title>
+      <link>//declangraymullen.com/blog/firstpost/</link>
+      <pubDate>Sun, 13 Oct 2019 12:08:19 -0200</pubDate>
+      
+      <guid>//declangraymullen.com/blog/firstpost/</guid>
+      <description>As I have been building this website, I&amp;rsquo;ve been considering what sort of structure I should follow for documenting both my overall progress on independent projects as well as my personal development. I have decided to split posts into two general categories with associated goals:
+ Blog  Will consist of quasi-&amp;lsquo;random&amp;rsquo; updates regarding my independent work, academic life, goals and career progress. Maintain an average posting frequency of once per month Updates regarding significant life events Outline my thoughts and focus  Portfolio  Will consist of less frequent larger posts explaining a certain project and diving into my technical implementation and progress Document a project at least once a season Publication style structure Projects involving data science, MEF and technology   </description>
+    </item>
+    
+  </channel>
+</rss>
