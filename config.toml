@@ -15,13 +15,10 @@ disqusShortname = "graydh"
 
 [params]
     author = "Declan Gray-Mullen"
-    info = "CS Major @ UMass Amherst CHC"
+    info = "Bay State Fellow @ UMass Amherst CICS LASER"
     description = "Declan's personal website"
-    keywords = "blog,developer,personal"
+    keywords = "developer,personal"
     avatarurl = "/images/declaniconavatar.jpg"
-
-    favicon_32="/images/icons8-raspberrypi.png"
-    favicon_16 = "/images/icons8-raspberrypi.png"
 
     footercontent = ""
 
@@ -33,39 +30,36 @@ disqusShortname = "graydh"
     rtl = false
 
     math = true
-    custom_css = ["css/custom.css"]
+
+    colorScheme = "dark"
 
 # Social links
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github fa-2x"
+    icon = "fa fa-github"
     weight = 1
-    url = "https://github.com/graydh/"
+    url = "http://github.com/graydh/"
 [[params.social]]
     name = "Linkedin"
-    icon = "fab fa-linkedin fa-2x"
+    icon = "fa fa-linkedin"
     weight = 2
-    url = "https://www.linkedin.com/in/declangray-mullen/"
+    url = "http://www.linkedin.com/in/declangraymullen/"
 [[params.social]]
     name = "Handshake"
-    icon = "fas fa-handshake fa-2x"
+    icon = "fa fa-handshake-o"
     weight = 3
-    url = "https://app.joinhandshake.com/users/10647344"
+    url = "http://app.joinhandshake.com/users/10647344"
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
-    weight = 2
-    url  = "/blog/"
-[[menu.main]]
     name = "About"
     weight = 1
-    url = "/about"
+    url = "about/"
 [[menu.main]]
     name = "Contact Me"
-    weight = 4
-    url = "mailto:dgraymullen@umass.edu"
+    weight = 3
+    url = "contact/"
 [[menu.main]]
     name = "Projects"
-    weight = 3
+    weight = 2
     url = "/projects/"

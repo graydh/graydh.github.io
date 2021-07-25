@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2020-04-10T12:00:00-01:00
+date = 2019-12-06T12:00:00-01:00
 title = "Nancy Drew Plays Clue!"
 description = "An Application of SAT Solvers"
 slug = ""
@@ -12,7 +12,7 @@ series = []
 
 #### By: Milo and Declan
 
-![alt text](https://images.penguinrandomhouse.com/cover/9780448095448")
+![alt text](http://images.penguinrandomhouse.com/cover/9780448095448)
 
 One of the most iconic classes within the Computer Science Major at the University of Massachusetts Amherst is Introduction to Computation (CS250). It is covers a vast quantity of computer science theory all the way from simple logic to Turing machines. I took the class with Professor Marius Minea in the Fall of 2019 and additionally completed a 1 credit honors colloquium extension to the course with Professor Minea in order to complete a computer science honors requirement.
 

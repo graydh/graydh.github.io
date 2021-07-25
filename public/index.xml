@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Declan Gray-Mullen</title>
@@ -6,19 +6,32 @@
     <description>Recent content on Declan Gray-Mullen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Oct 2019 12:08:19 -0200</lastBuildDate>
-    
-	<atom:link href="//declangraymullen.com/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 22 Jul 2021 12:00:00 -0100</lastBuildDate><atom:link href="//declangraymullen.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minutemen Equity Fund Portfolio Visualization</title>
+      <link>//declangraymullen.com/projects/mef_visualization/</link>
+      <pubDate>Thu, 22 Jul 2021 12:00:00 -0100</pubDate>
+      
+      <guid>//declangraymullen.com/projects/mef_visualization/</guid>
+      <description>By: Declan    The Minutemen Equity Fund is an undergraduate Isenberg School of Management student-run organization that manages over $250,000 of the UMass endowment. As a member of the fund, I worked as a Junior and then Senior Analyst covering the technology, financial and basic materials sectors. The analysts in each sector make recommendations regarding the fund’s holdings and produce many deliverables along with three stock pitches a semester.</description>
+    </item>
     
     <item>
-      <title>Learning, College, and Transparency</title>
-      <link>//declangraymullen.com/blog/firstpost/</link>
-      <pubDate>Sun, 13 Oct 2019 12:08:19 -0200</pubDate>
+      <title>Exploring History Through Visualizations</title>
+      <link>//declangraymullen.com/projects/data_visualization/</link>
+      <pubDate>Sun, 12 Jul 2020 12:00:00 -0100</pubDate>
       
-      <guid>//declangraymullen.com/blog/firstpost/</guid>
-      <description>As I have been building this website, I&amp;rsquo;ve been considering what sort of structure I should follow for documenting both my overall progress on independent projects as well as my personal development. I have decided to split posts into two general categories with associated goals:
- Blog  Will consist of quasi-&amp;lsquo;random&amp;rsquo; updates regarding my independent work, academic life, goals and career progress. Maintain an average posting frequency of once per month Updates regarding significant life events Outline my thoughts and focus  Portfolio  Will consist of less frequent larger posts explaining a certain project and diving into my technical implementation and progress Document a project at least once a season Publication style structure Projects involving data science, MEF and technology   </description>
+      <guid>//declangraymullen.com/projects/data_visualization/</guid>
+      <description>By: Declan    In the spring of 2020, I completed a course called Data Visualization (590V) at UMass Amherst. Throughout the class in both its physical and online components, (thanks COVID) we explored both the psychology of visualizations and learned how to implement our own within the javascript D3 library. With a couple great students I met in the class, for our main project we created a set of visualizations to explore data from various Super Smash Melee tournaments hosted at UMass.</description>
+    </item>
+    
+    <item>
+      <title>Nancy Drew Plays Clue!</title>
+      <link>//declangraymullen.com/projects/nancy_drew_plays_clue/</link>
+      <pubDate>Fri, 10 Apr 2020 12:00:00 -0100</pubDate>
+      
+      <guid>//declangraymullen.com/projects/nancy_drew_plays_clue/</guid>
+      <description>By: Milo and Declan    One of the most iconic classes within the Computer Science Major at the University of Massachusetts Amherst is Introduction to Computation (CS250). It is covers a vast quantity of computer science theory all the way from simple logic to Turing machines. I took the class with Professor Marius Minea in the Fall of 2019 and additionally completed a 1 credit honors colloquium extension to the course with Professor Minea in order to complete a computer science honors requirement.</description>
     </item>
     
     <item>

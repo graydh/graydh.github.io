@@ -1,10 +1,10 @@
 ---
-title: "A Programmer, an Analyst, a Firefighter"
+title: "About"
 date: 2019-09-28T22:42:56-04:00
 draft: false
 ---
 
-Declan Gray-Mullen is from Amherst, Massachusetts majoring in Computer Science as UMass Amherst's Commonwealth Honors College. He is currently a Junior Analyst in the Isenberg Minutemen Equity Fund (MEF), covering the Financials sector. Declan interned this past summer at Liberty Mutual as a software developer on the Hosting Services Automation Team. Outside of MEF, Declan is a firefighter in the Amherst Fire Department Student Force and an Undergraduate Course Assistant in the Computer Science Department. In his free time, he enjoys playing lacrosse and working on home improvement projects.
+Declan Gray-Mullen is a first year M.S. Computer Science student at UMass Amherst. He graduated in May 2021 with a Computer Science B.S. and received a Bay State Fellowship to matriculate into the CICS graduate program. During undergrad, Declan worked as a Senior Analyst in the Isenberg Minutemen Equity Fund (MEF) and as a firefighter on the Amherst Fire Department Student Force. Currently, he works as a Research Assistant for LASER in the Computer Science Department. His reserach interests surround the Accessibility & Automation of SE. In his free time he enjoys playing lacrosse, weight training and working on home improvement projects.
 
 ![E3 Student Force](/images/E3picture.jpg) | ![Home Improvement](/images/homeimprovement.jpg)
 ------------ | -------------
