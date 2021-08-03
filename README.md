@@ -2,7 +2,7 @@
 
 ###Tools:
 
-Deployment - Host Gator
+Deployment - GitHub Pages
 
 Development - Hugo
 
