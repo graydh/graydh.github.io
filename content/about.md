@@ -8,5 +8,5 @@ Declan Gray-Mullen is a first year M.S. Computer Science student at UMass Amhers
 
 
 
-![E3 Student Force](/images/E3picture.jpg) | ![Home Improvement](/images/homeimprovement.jpg)
+![E3 Student Force](/images/graduation.jpg) | ![Home Improvement](/images/homeimprovement.jpg)
 ------------ | -------------
