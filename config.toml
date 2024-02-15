@@ -15,7 +15,7 @@ disqusShortname = "graydh"
 
 [params]
     author = "Declan Gray-Mullen"
-    info = "Bay State Fellow @ Manning CICS"
+    info = "Math Tutor @ Williston Northampton"
     description = "Declan's personal website"
     keywords = "developer,personal"
     avatarurl = "/images/declaniconavatar_smaller.jpg"
@@ -44,11 +44,6 @@ disqusShortname = "graydh"
     icon = "fa fa-linkedin"
     weight = 2
     url = "http://www.linkedin.com/in/declangraymullen/"
-[[params.social]]
-    name = "Handshake"
-    icon = "fa fa-handshake-o"
-    weight = 3
-    url = "http://app.joinhandshake.com/users/10647344"
 
 # Menu links
 [[menu.main]]

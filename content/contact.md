@@ -5,8 +5,6 @@ draft: false
 slug: "contact"
 ---
 
-Email: dgraymullen@umass.edu
-
-Office: CICS 316 (LASER)
+Email: dgraymullen@williston.com
 
 Located: Amherst, MA

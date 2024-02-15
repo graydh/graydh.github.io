@@ -16,7 +16,8 @@ The Minutemen Equity Fund is an undergraduate Isenberg School of Management stud
 
 In order to boost potential member engagement and increase transparency, I set out to create a visualization depicting the fund structure, holdings and performance. The Portfolio Manager of our fund makes all holdings decisions through a major broker’s platform. Using an easily exportable excel file of holdings, a visualization is constructed using D3.js for the front end and the Alpaca API for up-to-date equity pricing.
 
-Checkout the visualization deployed on [Heroku](http://mef-portfolio.herokuapp.com)!
+Update Feb. 2024: simplified to static
 
-[Github](https://github.com/graydh/MEF-Portfolio)
-MEF Website (coming soon)
+Checkout the [visualization](https://graydh.github.io/MEF-Portfolio/)
+
+Or the code on [Github](https://github.com/graydh/MEF-Portfolio)
