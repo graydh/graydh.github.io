@@ -13,6 +13,9 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "graydh"
 
+[markup.goldmark.renderer]
+    unsafe= true
+
 [params]
     author = "Declan Gray-Mullen"
     info = "Math Tutor @ Williston Northampton"

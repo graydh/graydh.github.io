@@ -5,6 +5,6 @@ draft: false
 slug: "contact"
 ---
 
-Email: dgraymullen@williston.com
+Email: declangraymullen@gmail.com
 
 Located: Amherst, MA
