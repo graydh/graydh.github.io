@@ -6,14 +6,24 @@
     <description>Recent content on Declan Gray-Mullen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Jul 2021 12:00:00 -0100</lastBuildDate><atom:link href="//graydh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Apr 2024 12:00:00 -0100</lastBuildDate><atom:link href="//graydh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trig Functions Visualized</title>
+      <link>//graydh.github.io/projects/trig_functions_visualized/</link>
+      <pubDate>Tue, 02 Apr 2024 12:00:00 -0100</pubDate>
+      
+      <guid>//graydh.github.io/projects/trig_functions_visualized/</guid>
+      <description>By: Declan    SOHCAHTOA is an acronym commonly taught to precalculus students to memorize the definition of trigonomic identiies, but it can be difficult for students to see how these formulas create waves or the asymtotes found in tangent. I set out to find a visualization builds on the gramatical approach to understanding the trigonomic functions.
+Inspired by this static plot, I created a dynamic plot on Observable to explore the six main trig functions in one simple plot.</description>
+    </item>
+    
     <item>
       <title>Contact Me</title>
       <link>//graydh.github.io/contact/</link>
       <pubDate>Thu, 22 Jul 2021 22:42:56 -0400</pubDate>
       
       <guid>//graydh.github.io/contact/</guid>
-      <description>Email: dgraymullen@williston.com
+      <description>Email: declangraymullen@gmail.com
 Located: Amherst, MA</description>
     </item>
     
