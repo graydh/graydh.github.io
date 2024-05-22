@@ -17,4 +17,4 @@ SOHCAHTOA is an acronym commonly taught to precalculus students to memorize the 
 Inspired by [this static plot](https://www.anirdesh.com/math/trig/trigonometric-measurements.php), I created a dynamic plot on Observable to explore the six main trig functions in one simple plot.
 
 <iframe width="100%" height="568" frameborder="0"
-  src="https://observablehq.com/embed/b66715880e97a65d@710?cells=graph%2Cviewof+speed_text%2Cviewof+speed"></iframe>
+  src="https://observablehq.com/embed/b66715880e97a65d@776?cells=graph%2Cviewof+speed_text%2Cviewof+speed%2Cviewof+button"></iframe>

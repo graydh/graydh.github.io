@@ -4,7 +4,8 @@
     <title>Tags on Declan Gray-Mullen</title>
     <link>//graydh.github.io/tags/</link>
     <description>Recent content in Tags on Declan Gray-Mullen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//graydh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//graydh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
